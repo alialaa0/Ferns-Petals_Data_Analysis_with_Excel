@@ -45,7 +45,7 @@ This project is fully explained in **Arabic**, making it one of the few comprehe
 ## 🙌 Author
 **Ali Alaa**  
 Data Analyst & Excel Enthusiast  
-🔗 [LinkedIn](#)
+🔗 linkedin : https://www.linkedin.com/in/3li-3laa/
 
 ---
 
@@ -57,3 +57,4 @@ Feel free to reuse or modify for your personal learning projects.
 
 ## 📬 Feedback
 If you found this helpful, please ⭐ the repo and share the tutorial with your friends!
+
